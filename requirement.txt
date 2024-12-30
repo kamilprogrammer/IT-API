@@ -11,6 +11,7 @@ passlib==1.7.4
 pyasn1==0.6.1
 pydantic==2.10.4
 pydantic_core==2.27.2
+PyMySQL==1.1.1
 python-jose==3.3.0
 rsa==4.9
 six==1.17.0
